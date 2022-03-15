@@ -164,3 +164,11 @@ h4{
     cursor: pointer;
 }
 
+.menu-icon{
+    width: 30px;
+    margin-right: 15px;
+    display: none;
+}
+
+
+
